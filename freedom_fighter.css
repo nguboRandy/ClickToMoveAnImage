@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(./mandelaBackground.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+img{
+    width: 100px;
+    height: 100px;
+    
+}
+#favorites{
+    padding: 100px;
+    border: 2px solid grey;
+    float: right;
+    display:flex;
+}
+p{
+    font-size:large;
+    margin-top: 20px;
+}
+h1{
+    margin: 20px;
+    margin-bottom: 100px;
+    text-align: center;
+}
